@@ -34,7 +34,7 @@ ChinchillaView is a minimalist, modern, and completely offline-capable 3D model 
 -   **HTML5:** The core structure of the application.
 -   **CSS3:** Custom styling for the modern look and feel.
 -   **JavaScript (ES6 Modules):** Powers the application's logic and file handling.
--   **Google `<model-viewer>`:** The powerful web component used for rendering and interacting with the 3D models. The library is embedded directly into the HTML file for offline use.
+-   **Google `model-viewer 3.5.0`:** The powerful web component used for rendering and interacting with the 3D models. The library is embedded directly into the HTML file for offline use.
 
 ## License
 
