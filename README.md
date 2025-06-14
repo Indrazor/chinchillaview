@@ -1,6 +1,3 @@
-Of course. Here is a short, well-formatted README file perfect for a GitHub project.
-
-You can copy the text below and save it in a file named `README.md` in your project's root directory.
 
 ---
 
